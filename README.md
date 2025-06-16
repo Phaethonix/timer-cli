@@ -28,6 +28,12 @@ Syntax for a duration is `__h__m__s` where the hour, minute and second values ar
 - 10hrs 5secs - `10h5s`
 - 1hr 25mins 45secs - `1h25m45s`
 
+### Updated examples
+
+- 2min 40mins - `165m`
+- 10hrs 50 mins - `650m`
+- you can do 999h or 999s as well
+
 ### Options
 
 #### --no-bell
